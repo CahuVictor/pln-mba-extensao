@@ -135,3 +135,5 @@ cache_files
 mc
 gcloud-keys/
 secrets/
+/.venv_gensim
+/.venv_spacy
